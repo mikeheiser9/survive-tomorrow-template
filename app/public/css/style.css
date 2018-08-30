@@ -31,8 +31,26 @@
 
 #title {
     font-family: 'Roboto', sans-serif;
-    font-size: 47px;
+    font-size: 4vw;
     color: #4e4e4e;
     letter-spacing: 2px;
     margin-top: 25px;
+}
+
+.orderNow {
+    font-weight: 600;
+    border-bottom: 1px solid black;
+    font-size: 1.6vw;
+}
+.orderNow:hover {
+    background-color: #d3d3d3;
+}
+
+.sponsored {
+    font-size: .8vw;
+    color: gray;
+}
+
+.split {
+    border-bottom: 1px solid gray;
 }
